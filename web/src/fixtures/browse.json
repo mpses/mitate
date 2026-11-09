@@ -1,0 +1,3423 @@
+{
+  "shots" : [
+    {
+      "aspect" : 0.5625,
+      "author" : "López Kevin",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShx9IvNyFaj8XLgd-9l24fPsxDMGE5ci3hBDMkrXq9sRXEMI",
+      "kind" : "image",
+      "media" : {
+        "height" : 1200,
+        "src" : "https://i.pinimg.com/736x/42/24/62/42246229e092dbd8691c51429c216820.jpg",
+        "width" : 675
+      },
+      "publishedAt" : "2026-10-16T22:20:44.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/42/24/62/42246229e092dbd8691c51429c216820.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShx9IvNyFaj8XLgd-9l24fPsxDMGE5ci3hBDMkrXq9sRXEMI/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:day-highlight-morphs-into-the-search-bar-in-one-year",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/one_year-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/one_year.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Interaction",
+        "Motion",
+        "One Year"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/one_year-first-frame.jpg",
+      "title" : "Day highlight morphs into the search bar in One Year",
+      "url" : "https://designspells.com/spells/day-highlight-morphs-into-the-search-bar-in-one-year"
+    },
+    {
+      "author" : "shadcn/ui",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:ui-shadcn/accordion",
+      "kind" : "text",
+      "origin" : "https://ui.shadcn.com/docs/components/accordion",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "accordion"
+      ],
+      "text" : "shadcn/ui · Accordions",
+      "title" : "Accordion (shadcn/ui)",
+      "url" : "https://allcomps.vercel.app/c/ui-shadcn/accordion"
+    },
+    {
+      "aspect" : 0.8,
+      "author" : "Ritu",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:vwi94zh",
+      "kind" : "video",
+      "media" : {
+        "height" : 900,
+        "poster" : "https://cdn.recent.design/items/vwi94zh/0/poster/960.webp",
+        "src" : "https://cdn.recent.design/items/vwi94zh/0/720x900.mp4",
+        "width" : 720
+      },
+      "note" : "余白の取り方",
+      "origin" : "https://x.com/BThreeAgency/status/2118686469267341525",
+      "publishedAt" : "2026-11-07T14:26:17.472Z",
+      "selected" : true,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Transitions",
+        "Microinteraction",
+        "Loading Animation",
+        "Minimal",
+        "Consumer"
+      ],
+      "text" : "Dark fintech mobile app flow for Vael showing amount entry via numpad, account selection, swipe-to-confirm gesture, and a deposit confirmation screen with an Onyx card reveal.",
+      "thumb" : "https://cdn.recent.design/items/vwi94zh/0/poster/960.webp",
+      "title" : "Vael Fintech App",
+      "url" : "https://recent.design/i/vwi94zh-vael-fintech-app"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:0c032543-2ac2-4248-bd6b-a3ab8b70feac",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/0c032543-2ac2-4248-bd6b-a3ab8b70feac/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://exodeui.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "An interactive design tool for UI and animation that runs live in your app.",
+      "thumb" : "https://cdn.designeer.xyz/items/0c032543-2ac2-4248-bd6b-a3ab8b70feac/poster/1200.webp",
+      "title" : "ExodeUI",
+      "url" : "https://designeer.xyz/tools/exodeui"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:b61fa4f5-4de1-442f-afda-9c1246178265",
+      "kind" : "text",
+      "origin" : "https://60fps.design/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · 60fps.design",
+      "title" : "60fps",
+      "url" : "https://designengineer.tools/#b61fa4f5-4de1-442f-afda-9c1246178265"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Minimal",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShyI9y1NZam1otzc75h3UCW-N8Nkye3h0MWfjee-LzipULgu",
+      "kind" : "image",
+      "media" : {
+        "height" : 1200,
+        "src" : "https://i.pinimg.com/736x/df/c8/cb/dfc8cbcfbd1e5ede9e0f02b3c43f8a21.jpg",
+        "width" : 1600
+      },
+      "publishedAt" : "2025-05-07T23:08:23.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Task Management Dashboard",
+      "thumb" : "https://i.pinimg.com/736x/df/c8/cb/dfc8cbcfbd1e5ede9e0f02b3c43f8a21.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShyI9y1NZam1otzc75h3UCW-N8Nkye3h0MWfjee-LzipULgu/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:what-s-new-flow-in-notion-calendar",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/notion_calendar-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/notion_calendar-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Animation",
+        "Occasion",
+        "Notion Calendar"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/notion_calendar-2-first-frame.jpg",
+      "title" : "What's new flow in Notion Calendar",
+      "url" : "https://designspells.com/spells/what-s-new-flow-in-notion-calendar"
+    },
+    {
+      "author" : "BoardUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:boardui/accordion",
+      "kind" : "text",
+      "origin" : "https://www.boardui.com/components/accordion",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "accordion"
+      ],
+      "text" : "Sections that expand in place in divided, contained and separated styles, with a smooth height and blur transition, built on React Aria.\nBoardUI · Accordions",
+      "title" : "Accordion (BoardUI)",
+      "url" : "https://allcomps.vercel.app/c/boardui/accordion"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "fomo",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:kci7858",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/kci7858/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/kci7858/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/fomo/status/2118785195667284200",
+      "publishedAt" : "2026-11-07T13:44:19.558Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Dark",
+        "Vibrant",
+        "Consumer"
+      ],
+      "text" : "Fomo launches profile feeds, letting users follow traders to see every trade and idea in a single timeline, with positions, activity and thesis posts.",
+      "thumb" : "https://cdn.recent.design/items/kci7858/0/poster/1200.webp",
+      "title" : "Fomo Profile Feeds",
+      "url" : "https://recent.design/i/kci7858-fomo-profile-feeds"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:50342a85-6417-4787-8121-5240745509f2",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/50342a85-6417-4787-8121-5240745509f2/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://vecsnap.com/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "Turn PNG, JPG and AI images into clean, editable SVG files.",
+      "thumb" : "https://cdn.designeer.xyz/items/50342a85-6417-4787-8121-5240745509f2/poster/1200.webp",
+      "title" : "VecSnap",
+      "url" : "https://designeer.xyz/tools/vecsnap"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:d35d848b-fe4f-43a4-9d7d-9c3f4edb077d",
+      "kind" : "text",
+      "origin" : "https://www.awwwards.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.awwwards.com",
+      "title" : "Awwwards",
+      "url" : "https://designengineer.tools/#d35d848b-fe4f-43a4-9d7d-9c3f4edb077d"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Pocket-Sized UI Kits, Big Ideas",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShw9z_MplSRk1EVLTqg21cHRwLI_A3Jw8nRsHAHxCzwKgOzcKg",
+      "kind" : "image",
+      "media" : {
+        "height" : 3600,
+        "src" : "https://i.pinimg.com/736x/28/ca/fd/28cafd9cbc5bcef5fc7e5fda51d8b6eb.jpg",
+        "width" : 4800
+      },
+      "publishedAt" : "2026-10-18T19:05:52.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "AI Course Dashboard - Weekly Reports by Pickolab Studio",
+      "thumb" : "https://i.pinimg.com/736x/28/ca/fd/28cafd9cbc5bcef5fc7e5fda51d8b6eb.jpg",
+      "title" : "Pin di Dashboard",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShw9z_MplSRk1EVLTqg21cHRwLI_A3Jw8nRsHAHxCzwKgOzcKg/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:halloween-easter-egg-when-hovering-on-dub-co-s-logo",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/dub-4-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/dub-4.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Desktop",
+        "Easter Egg",
+        "Animation",
+        "Occasion",
+        "Dub.co"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/dub-4-first-frame.jpg",
+      "title" : "Halloween easter egg when hovering on Dub.co's logo",
+      "url" : "https://designspells.com/spells/halloween-easter-egg-when-hovering-on-dub-co-s-logo"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/activity-feed",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/activity-feed",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "list"
+      ],
+      "text" : "A developer telemetry and audit log stream featuring category filtering, live real-time event simulation with Framer Motion slide insertions, and expandable JSON payloads.\nEasyUI · Lists & feeds",
+      "title" : "Activity Feed (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/activity-feed"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "yuhang",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:w568th2",
+      "kind" : "image",
+      "media" : {
+        "height" : 675,
+        "src" : "https://cdn.recent.design/items/w568th2/0/image/6100f99c875204d13f5a/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://x.com/luyuhang/status/2118821054223130957",
+      "publishedAt" : "2026-11-07T06:24:16.986Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Muted",
+        "Minimal",
+        "Consumer"
+      ],
+      "text" : "Four Apple Watch screens showing sun arc, circular clock, compass bearing, and moon phase views in a dark, muted blue UI.",
+      "thumb" : "https://cdn.recent.design/items/w568th2/0/image/6100f99c875204d13f5a/1200.webp",
+      "title" : "Apple Watch App Screens",
+      "url" : "https://recent.design/i/w568th2-apple-watch-app-screens"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:90c21374-c6f5-4778-893e-168c82675018",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/90c21374-c6f5-4778-893e-168c82675018/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://emoj.si",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "A browser-based DIY emoji maker.",
+      "thumb" : "https://cdn.designeer.xyz/items/90c21374-c6f5-4778-893e-168c82675018/poster/1200.webp",
+      "title" : "Emoj.si",
+      "url" : "https://designeer.xyz/tools/emoj-si"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:66243a92-c44f-4f70-b27e-5fd1390df2a2",
+      "kind" : "text",
+      "origin" : "https://www.cosmos.so/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.cosmos.so",
+      "title" : "Cosmos",
+      "url" : "https://designengineer.tools/#66243a92-c44f-4f70-b27e-5fd1390df2a2"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "KANCHARLA ANIL",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShx8BcFEy9aUjzHhF_ZSOt1FskovZNTLipkK9po8mi-6ebj6",
+      "kind" : "image",
+      "media" : {
+        "height" : 1200,
+        "src" : "https://i.pinimg.com/736x/4d/5b/f3/4d5bf3a3f5a7e2875b28280efa67e5a5.jpg",
+        "width" : 1600
+      },
+      "publishedAt" : "2026-10-09T12:13:31.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Job Portal Admin Dashboard",
+      "thumb" : "https://i.pinimg.com/736x/4d/5b/f3/4d5bf3a3f5a7e2875b28280efa67e5a5.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShx8BcFEy9aUjzHhF_ZSOt1FskovZNTLipkK9po8mi-6ebj6/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:halloween-easter-egg-when-hovering-on-vercel-s-logo",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/vercel-12-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/vercel-12.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "3D",
+        "Desktop",
+        "Easter Egg",
+        "Animation",
+        "Occasion",
+        "Vercel"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/vercel-12-first-frame.jpg",
+      "title" : "Halloween easter egg when hovering on Vercel's logo",
+      "url" : "https://designspells.com/spells/halloween-easter-egg-when-hovering-on-vercel-s-logo"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/activity-heatmap",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://easyui.site/components/activity-heatmap",
+      "selected" : true,
+      "source" : "allcomps",
+      "tags" : [
+        "chart"
+      ],
+      "text" : "A GitHub-style contribution calendar and weekday-by-hour activity grid with automatic column fitting, quarterly color levels, hover tooltips, and keyboard navigation.\nEasyUI · Charts",
+      "title" : "Activity Heatmap (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/activity-heatmap"
+    },
+    {
+      "aspect" : 1.6,
+      "author" : "Rajat Sethi",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:5gqq22v",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/5gqq22v/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/5gqq22v/0/1152x720.mp4",
+        "width" : 1152
+      },
+      "origin" : "https://x.com/sethihq/status/2118550187840774366",
+      "publishedAt" : "2026-11-06T17:06:41.174Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Motion",
+        "Light",
+        "Kinetic Type",
+        "Typographic",
+        "Experimental"
+      ],
+      "text" : "Words build word by word with CMY chromatic aberration on each new word, then scatter into comic-panel color blocks before dissolving into pixel fragments.",
+      "thumb" : "https://cdn.recent.design/items/5gqq22v/0/poster/1200.webp",
+      "title" : "Spider-Verse Text Reveal",
+      "url" : "https://recent.design/i/5gqq22v-spider-verse-text-reveal"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:dc282d1a-6930-4559-b65c-63ff8f249059",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/dc282d1a-6930-4559-b65c-63ff8f249059/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://particlelogo.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "A browser-based tool that turns a logo into a particle animation.",
+      "thumb" : "https://cdn.designeer.xyz/items/dc282d1a-6930-4559-b65c-63ff8f249059/poster/1200.webp",
+      "title" : "Particle Logo",
+      "url" : "https://designeer.xyz/tools/particle-logo"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:0977d184-5efc-458d-85d6-135f87b7c739",
+      "kind" : "text",
+      "origin" : "https://www.curated.design/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.curated.design",
+      "title" : "Curated Design",
+      "url" : "https://designengineer.tools/#0977d184-5efc-458d-85d6-135f87b7c739"
+    },
+    {
+      "aspect" : 0.43564356435643564,
+      "author" : "Oliver | Everyday Planner Hub",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwnUKMTvqkoDNTBYVLrmX0wT2PjNGtTYH2AQ9NDLUbX17GLrw",
+      "kind" : "image",
+      "media" : {
+        "height" : 4848,
+        "src" : "https://i.pinimg.com/736x/55/b3/38/55b3387d76434fa71243f8f3ded900ac.jpg",
+        "width" : 2112
+      },
+      "publishedAt" : "2026-10-20T18:13:40.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/55/b3/38/55b3387d76434fa71243f8f3ded900ac.jpg",
+      "title" : "Top 20 Finance Tracker Templates for Budget Management | Notion",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwnUKMTvqkoDNTBYVLrmX0wT2PjNGtTYH2AQ9NDLUbX17GLrw/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:smooth-transitions-when-browsing-looks-on-doji",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/doji-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/doji.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Motion",
+        "Doji"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/doji-first-frame.jpg",
+      "title" : "Smooth transitions when browsing looks on Doji",
+      "url" : "https://designspells.com/spells/smooth-transitions-when-browsing-looks-on-doji"
+    },
+    {
+      "author" : "Pin UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:pin-ui/add-member",
+      "kind" : "text",
+      "origin" : "https://www.pinui.xyz/components/add-member",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "team",
+        "select",
+        "list"
+      ],
+      "text" : "Pick people for a project, and watch their faces fly into the stack.\nPin UI · Team sections",
+      "title" : "Add Member (Pin UI)",
+      "url" : "https://allcomps.vercel.app/c/pin-ui/add-member"
+    },
+    {
+      "aspect" : 1.636111111111111,
+      "author" : "Shlok Negi",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:iw18rhk",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/iw18rhk/0/poster/1199.webp",
+        "src" : "https://cdn.recent.design/items/iw18rhk/0/1178x720.mp4",
+        "width" : 1178
+      },
+      "origin" : "https://x.com/shlok776/status/2118702944694509637",
+      "publishedAt" : "2026-11-06T16:30:59.679Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Web",
+        "Vibrant",
+        "Transitions",
+        "Minimal",
+        "Consumer"
+      ],
+      "text" : "A website feature section cycles through finance app features, swapping a vivid color-matched card with a minimal UI snippet instead of full screenshots.",
+      "thumb" : "https://cdn.recent.design/items/iw18rhk/0/poster/1199.webp",
+      "title" : "Doze Feature Section",
+      "url" : "https://recent.design/i/iw18rhk-doze-feature-section"
+    },
+    {
+      "aspect" : 1.901743264659271,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:60b13b53-448b-497f-a4dd-cf4f3f75734c",
+      "kind" : "image",
+      "media" : {
+        "height" : 631,
+        "src" : "https://cdn.designeer.xyz/items/60b13b53-448b-497f-a4dd-cf4f3f75734c/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://mockshot.si",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Capture & Media"
+      ],
+      "text" : "A browser-based device mockup and screenshot generator.",
+      "thumb" : "https://cdn.designeer.xyz/items/60b13b53-448b-497f-a4dd-cf4f3f75734c/poster/1200.webp",
+      "title" : "MockShot",
+      "url" : "https://designeer.xyz/tools/mockshot"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:7476e970-df23-4365-9ef9-7909b812ba92",
+      "kind" : "text",
+      "origin" : "https://www.designspells.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.designspells.com",
+      "title" : "Design Spells",
+      "url" : "https://designengineer.tools/#7476e970-df23-4365-9ef9-7909b812ba92"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "B Paul",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShzfacPlEBUUAXD0Oe6zRmTuoFW3BVjaRsTlMhMbEca1OVo",
+      "kind" : "image",
+      "media" : {
+        "height" : 2400,
+        "src" : "https://i.pinimg.com/736x/b4/11/e4/b411e44595c8cdda7cff914f58db21f9.jpg",
+        "width" : 3200
+      },
+      "publishedAt" : "2025-07-30T05:47:04.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/b4/11/e4/b411e44595c8cdda7cff914f58db21f9.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShzfacPlEBUUAXD0Oe6zRmTuoFW3BVjaRsTlMhMbEca1OVo/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:fully-functional-ipod-on-apple-music-s-404-page",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/apple_music-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/apple_music.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Skeuomorphic",
+        "404",
+        "Desktop",
+        "Easter Egg",
+        "Apple",
+        "Apple Music"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/apple_music-first-frame.jpg",
+      "title" : "Fully functional iPod on Apple Music's 404 page",
+      "url" : "https://designspells.com/spells/fully-functional-ipod-on-apple-music-s-404-page"
+    },
+    {
+      "author" : "Pin UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:pin-ui/cart-card",
+      "kind" : "text",
+      "origin" : "https://www.pinui.xyz/components/cart-card",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "card",
+        "ecommerce"
+      ],
+      "text" : "A product card that is only a photo until you open it.\nPin UI · Cards",
+      "title" : "Add To Cart (Pin UI)",
+      "url" : "https://allcomps.vercel.app/c/pin-ui/cart-card"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Perplexity",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:jujypdo",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/jujypdo/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/jujypdo/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/perplexity_ai/status/2118389326459670825",
+      "publishedAt" : "2026-11-05T17:27:09.622Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Vibrant",
+        "AI"
+      ],
+      "text" : "Perplexity launches Teammates, proactive AI agents that take on jobs like inventory management, engineering, QA, ads, and legal tasks, collaborating with each other and coworkers in Slack.",
+      "thumb" : "https://cdn.recent.design/items/jujypdo/0/poster/1200.webp",
+      "title" : "Perplexity Teammates Launch",
+      "url" : "https://recent.design/i/jujypdo-perplexity-teammates-launch"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:37e67e95-51ac-47bd-9cc3-46fa612c7c93",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/37e67e95-51ac-47bd-9cc3-46fa612c7c93/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/37e67e95-51ac-47bd-9cc3-46fa612c7c93/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://www.sirolius.com/playground/raylight/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas",
+        "free"
+      ],
+      "text" : "A free studio for glowing UI cover illustrations.",
+      "thumb" : "https://cdn.designeer.xyz/items/37e67e95-51ac-47bd-9cc3-46fa612c7c93/poster/1200.webp",
+      "title" : "Raylight",
+      "url" : "https://designeer.xyz/tools/raylight"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:ba22758c-32b0-42dc-b8af-a959230a8c7b",
+      "kind" : "text",
+      "origin" : "https://www.gameuidatabase.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.gameuidatabase.com",
+      "title" : "Game UI Database",
+      "url" : "https://designengineer.tools/#ba22758c-32b0-42dc-b8af-a959230a8c7b"
+    },
+    {
+      "aspect" : 1,
+      "author" : "Pivora UI Kits",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShw7MVvd8osPES1G1uGKNOL2YLFHohfLLVy9DZPfnK0rj0x0xA",
+      "kind" : "image",
+      "media" : {
+        "height" : 3200,
+        "src" : "https://i.pinimg.com/736x/e4/61/d3/e461d3ea34b20e0711789f49bfa95684.jpg",
+        "width" : 3200
+      },
+      "publishedAt" : "2026-10-25T09:43:38.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "#dashboard #webdesign #uiinspiration #productdesign #designtrends #web #ux",
+      "thumb" : "https://i.pinimg.com/736x/e4/61/d3/e461d3ea34b20e0711789f49bfa95684.jpg",
+      "title" : "Wise Dashboard | Halo Lab",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShw7MVvd8osPES1G1uGKNOL2YLFHohfLLVy9DZPfnK0rj0x0xA/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:bookmark-sheet-transitions-in-x",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/twitter-7-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/twitter-7.mp4",
+        "width" : 1920
+      },
+      "note" : "余白の取り方",
+      "selected" : true,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Twitter"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/twitter-7-first-frame.jpg",
+      "title" : "Bookmark sheet transitions in X",
+      "url" : "https://designspells.com/spells/bookmark-sheet-transitions-in-x"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/advanced-data-table",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/advanced-data-table",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "table"
+      ],
+      "text" : "A powerful, accessible data table component with multi-column sorting, faceted filters, global search, row selection, bulk actions, expandable sub-rows, and pagination.\nEasyUI · Tables & data grids",
+      "title" : "Advanced Data Table (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/advanced-data-table"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Regy",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:i2g8hzc",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/i2g8hzc/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/i2g8hzc/0/960x720.mp4",
+        "width" : 960
+      },
+      "origin" : "https://x.com/regyperlera/status/2118132238390903124",
+      "publishedAt" : "2026-11-05T08:02:28.742Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Vibrant",
+        "Transitions",
+        "3D",
+        "Playful",
+        "Consumer"
+      ],
+      "text" : "A mobile shopping app's holiday gift experience featuring a 3D snow globe entry point, curated gift guide feeds, and a rotating product-image sphere as the main visual motif.",
+      "thumb" : "https://cdn.recent.design/items/i2g8hzc/0/poster/1200.webp",
+      "title" : "Holiday Gift Shop App",
+      "url" : "https://recent.design/i/i2g8hzc-holiday-gift-shop-app"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:fb9b7b7f-2776-4f2a-acc8-5dc250022816",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/fb9b7b7f-2776-4f2a-acc8-5dc250022816/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/fb9b7b7f-2776-4f2a-acc8-5dc250022816/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://localeditor.app",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop",
+        "paid"
+      ],
+      "text" : "A local Mac workspace for notes, sketches and code.",
+      "thumb" : "https://cdn.designeer.xyz/items/fb9b7b7f-2776-4f2a-acc8-5dc250022816/poster/1200.webp",
+      "title" : "LocalEditor",
+      "url" : "https://designeer.xyz/tools/localeditor"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:f453cc87-4138-4dda-a0d7-d36773d7f1b0",
+      "kind" : "text",
+      "origin" : "https://godly.website/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · godly.website",
+      "title" : "Godly",
+      "url" : "https://designengineer.tools/#f453cc87-4138-4dda-a0d7-d36773d7f1b0"
+    },
+    {
+      "aspect" : 0.6666666666666666,
+      "author" : "Redowan Trafder",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwI4bDjQtclsY5qHvbJ0e2-XHn8Jn8sxqVPP893DZui3jp5XQ",
+      "kind" : "image",
+      "media" : {
+        "height" : 1536,
+        "src" : "https://i.pinimg.com/736x/03/18/66/03186635a3dd0241c32b41b09da066ad.jpg",
+        "width" : 1024
+      },
+      "publishedAt" : "2026-10-13T16:11:04.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Looking for aesthetic productivity dashboard UI design inspiration? 🌿 Explore the Flowly dashboard design series featuring a clean, minimal interface, soft sage green accents, warm neutral colors, and modern workspace UI. Save this pin for your next UI/UX project, follow for more SaaS dashboard designs and creative inspiration, and comment which design you would love to see next!\n\n#ProductivityDashboard #UIDesign #UXDesign #DashboardDesign #SaaSDesign\n\nProductivity Dashboard, Dashboard UI Design, UI UX Design, SaaS Dashboard, Web Design Inspiration, Minimal UI Design, Productivity App, Workspace Design, Figma Dashboard, User Interface Design, App Design Inspiration, Creative Portfolio, Brand Collaboration, Freelance UI Designer, Aesthetic Dashboard",
+      "thumb" : "https://i.pinimg.com/736x/03/18/66/03186635a3dd0241c32b41b09da066ad.jpg",
+      "title" : "Aesthetic Productivity Dashboard UI Design | UI/UX Inspiration & Brand Collaborations",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwI4bDjQtclsY5qHvbJ0e2-XHn8Jn8sxqVPP893DZui3jp5XQ/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:effort-picker-animations-in-gentler-streak",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/gentler_streak-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/gentler_streak.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Unique",
+        "Mobile",
+        "Animation",
+        "Interaction",
+        "Gentler Streak"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/gentler_streak-first-frame.jpg",
+      "title" : "Effort picker animations in Gentler Streak",
+      "url" : "https://designspells.com/spells/effort-picker-animations-in-gentler-streak"
+    },
+    {
+      "author" : "BoardUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:boardui/agent-chat",
+      "kind" : "text",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "ai-chat",
+        "hero"
+      ],
+      "text" : "A working chat app: app sidebar, streaming replies, thinking indicator, a composer pill with stop control, a chat-history rail with local thread switching, and a setup notice when no provider key is set.\nBoardUI · AI & chat",
+      "title" : "Agent Chat (BoardUI)",
+      "url" : "https://allcomps.vercel.app/c/boardui/agent-chat"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "fomo",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:8cdg7k4",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/8cdg7k4/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/8cdg7k4/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/leomeethewoo/status/2117983597303152773",
+      "publishedAt" : "2026-11-05T05:11:09.618Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Dark",
+        "Gradient",
+        "Minimal",
+        "Consumer"
+      ],
+      "text" : "Fomo launches as a Solana token trading and discovery platform, letting users browse trending tokens, view candlestick charts, and execute buy and sell trades from a customizable dark-mode dashboard.",
+      "thumb" : "https://cdn.recent.design/items/8cdg7k4/0/poster/1200.webp",
+      "title" : "Fomo Trading Platform Launch",
+      "url" : "https://recent.design/i/8cdg7k4-fomo-trading-platform-launch"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:ff72a16e-7385-455a-ad34-4ab01c96285d",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/ff72a16e-7385-455a-ad34-4ab01c96285d/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/ff72a16e-7385-455a-ad34-4ab01c96285d/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://usemoody.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop",
+        "paid"
+      ],
+      "text" : "A personal library for design inspiration on macOS.",
+      "thumb" : "https://cdn.designeer.xyz/items/ff72a16e-7385-455a-ad34-4ab01c96285d/poster/1200.webp",
+      "title" : "Moody",
+      "url" : "https://designeer.xyz/tools/moody"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:48625f49-cd94-4888-b6fa-6714d034ea26",
+      "kind" : "text",
+      "origin" : "https://www.hudsandguis.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.hudsandguis.com",
+      "title" : "HUDS+GUIS",
+      "url" : "https://designengineer.tools/#48625f49-cd94-4888-b6fa-6714d034ea26"
+    },
+    {
+      "aspect" : 0.8,
+      "author" : "Pixel Perfect Kits",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShzD50XrXkXcMKyGQKY3Ahd6Gq8T2c0XvSkeMCU2Ukt61iHpYg",
+      "kind" : "image",
+      "media" : {
+        "height" : 900,
+        "src" : "https://i.pinimg.com/736x/3e/de/45/3ede450a9789716d7ecb3d948028837b.jpg",
+        "width" : 720
+      },
+      "publishedAt" : "2026-10-25T11:25:57.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "(1) Home / X",
+      "thumb" : "https://i.pinimg.com/736x/3e/de/45/3ede450a9789716d7ecb3d948028837b.jpg",
+      "title" : "(1) Home / X | Web ui design, Dashboard ui, Web layout design",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShzD50XrXkXcMKyGQKY3Ahd6Gq8T2c0XvSkeMCU2Ukt61iHpYg/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:contributors-carousel-in-spotify-songdna",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/spotify-7-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/spotify-7.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Unique",
+        "Mobile",
+        "Motion",
+        "Spotify",
+        "Design Detail"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/spotify-7-first-frame.jpg",
+      "title" : "Contributors carousel in Spotify SongDNA",
+      "url" : "https://designspells.com/spells/contributors-carousel-in-spotify-songdna"
+    },
+    {
+      "author" : "BoardUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:boardui/agent-log",
+      "kind" : "text",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "list",
+        "ai-chat"
+      ],
+      "text" : "Shared streaming-log machinery: the reveal ticker, the blur-in with its soft clipping edge, and the curved tree guide that draws itself. Behind Task List and Web Search.\nBoardUI · Lists & feeds",
+      "title" : "Agent Log (BoardUI)",
+      "url" : "https://allcomps.vercel.app/c/boardui/agent-log"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Aave",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:s09xkvb",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/s09xkvb/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/s09xkvb/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/aave/status/2117733386026397948",
+      "publishedAt" : "2026-11-05T01:44:31.452Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Light",
+        "Kinetic Type",
+        "Playful",
+        "Illustrative",
+        "Consumer"
+      ],
+      "text" : "Aave App is introduced as a consumer savings app letting users earn up to 7.25% APY paid every second toward personal goals like holidays and weddings.",
+      "thumb" : "https://cdn.recent.design/items/s09xkvb/0/poster/1200.webp",
+      "title" : "Aave App Launch Film",
+      "url" : "https://recent.design/i/s09xkvb-aave-app-launch-film"
+    },
+    {
+      "aspect" : 1.910828025477707,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:17963a25-ee86-4250-9fcb-37f916caa7af",
+      "kind" : "image",
+      "media" : {
+        "height" : 628,
+        "src" : "https://cdn.designeer.xyz/items/17963a25-ee86-4250-9fcb-37f916caa7af/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://diarmuradi.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Development"
+      ],
+      "text" : "A shadcn/ui registry for components, blocks & templates.",
+      "thumb" : "https://cdn.designeer.xyz/items/17963a25-ee86-4250-9fcb-37f916caa7af/poster/1200.webp",
+      "title" : "Diar Muradi",
+      "url" : "https://designeer.xyz/tools/diar-muradi"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:94cf5ddc-fb03-49a5-b447-e558f6aada4a",
+      "kind" : "text",
+      "origin" : "https://interfaceingame.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · interfaceingame.com",
+      "title" : "Interface In Game",
+      "url" : "https://designengineer.tools/#94cf5ddc-fb03-49a5-b447-e558f6aada4a"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Tigris",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShyk2Ux17v3KL60Au9uHZe-C3KQb73PFjKTP1JgJeZVITi6J",
+      "kind" : "image",
+      "media" : {
+        "height" : 1200,
+        "src" : "https://i.pinimg.com/736x/3b/a3/d9/3ba3d9b6a8a69374764225e5e9134306.jpg",
+        "width" : 1600
+      },
+      "note" : "余白の取り方",
+      "publishedAt" : "2025-01-19T18:07:00.000Z",
+      "selected" : true,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/3b/a3/d9/3ba3d9b6a8a69374764225e5e9134306.jpg",
+      "title" : "Management Dashboard Ui",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShyk2Ux17v3KL60Au9uHZe-C3KQb73PFjKTP1JgJeZVITi6J/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:orb-picker-in-elevenlabs",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/elevenlabs-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/elevenlabs-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Unique",
+        "Desktop",
+        "Interaction",
+        "ElevenLabs"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/elevenlabs-2-first-frame.jpg",
+      "title" : "Orb picker in ElevenLabs",
+      "url" : "https://designspells.com/spells/orb-picker-in-elevenlabs"
+    },
+    {
+      "author" : "BoardUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:boardui/agent-thinking",
+      "kind" : "text",
+      "origin" : "https://www.boardui.com/components/agent-thinking",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "ai-chat"
+      ],
+      "text" : "Agent thinking indicator for chat composers — dot wave, dot spin, stars, and infinity variants with a shimmering label and elapsed timer.\nBoardUI · AI & chat",
+      "title" : "Agent Thinking (BoardUI)",
+      "url" : "https://allcomps.vercel.app/c/boardui/agent-thinking"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Marina Kondratenko",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:nukdlzc",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/nukdlzc/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/nukdlzc/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/marinaanddesign/status/2118035015959490865",
+      "publishedAt" : "2026-11-04T22:39:50.796Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Branding",
+        "Dark",
+        "Vibrant",
+        "Gradient",
+        "Kinetic Type",
+        "Typographic",
+        "Minimal",
+        "AI"
+      ],
+      "text" : "A monthly brand design recap for ElevenLabs spanning guidelines, business cards, app icon, social assets, event poster, and brand gradients tied together with kinetic type transitions.",
+      "thumb" : "https://cdn.recent.design/items/nukdlzc/0/poster/1200.webp",
+      "title" : "ElevenLabs October Brand Recap",
+      "url" : "https://recent.design/i/nukdlzc-elevenlabs-october-brand-recap"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:dce31e5c-5e20-4c5e-93d0-2448c65e0a86",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/dce31e5c-5e20-4c5e-93d0-2448c65e0a86/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://handoff.computer",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "AI & Agents"
+      ],
+      "text" : "Real-time knowledge graphs with MCP integration, version history, and team collaboration.",
+      "thumb" : "https://cdn.designeer.xyz/items/dce31e5c-5e20-4c5e-93d0-2448c65e0a86/poster/1200.webp",
+      "title" : "Handoff",
+      "url" : "https://designeer.xyz/tools/handoff"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:53556215-6ad1-4204-a4c1-381cc6bc138b",
+      "kind" : "text",
+      "origin" : "https://layers.to/explore",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · layers.to",
+      "title" : "$L14 Layers",
+      "url" : "https://designengineer.tools/#53556215-6ad1-4204-a4c1-381cc6bc138b"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Design Kit Central",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwIf2Wd0_SVb0J_CwSXKs4dJlExPgnzxtnm_I7HE2NQ2FvTHQ",
+      "kind" : "image",
+      "media" : {
+        "height" : 1128,
+        "src" : "https://i.pinimg.com/736x/e9/fb/4e/e9fb4e9cfc1764c144d49ab0687f66d1.jpg",
+        "width" : 1504
+      },
+      "publishedAt" : "2026-07-27T20:45:09.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Dark mode investment dashboard UI designed for finance analytics and portfolio management. Clean data visualization, charts, and structured layout help users track performance and make better financial decisions. #dashboardui #fintechdesign #datavisualization #analyticsdashboard #tradingdashboard #uidesign #saasui #financeui #investing #uiinspiration",
+      "thumb" : "https://i.pinimg.com/736x/e9/fb/4e/e9fb4e9cfc1764c144d49ab0687f66d1.jpg",
+      "title" : "Investment Dashboard UI – Finance Analytics & Portfolio Management",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwIf2Wd0_SVb0J_CwSXKs4dJlExPgnzxtnm_I7HE2NQ2FvTHQ/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:hidden-snake-minigame-when-waiting-for-images-to-generate-in-chatgpt",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/chatgpt-5-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/chatgpt-5.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Fun",
+        "Desktop",
+        "Easter Egg",
+        "ChatGPT"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/chatgpt-5-first-frame.jpg",
+      "title" : "Hidden snake minigame when waiting for images to generate in ChatGPT",
+      "url" : "https://designspells.com/spells/hidden-snake-minigame-when-waiting-for-images-to-generate-in-chatgpt"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/ai-agent-activity",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/ai-agent-activity",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "ai-chat"
+      ],
+      "text" : "A timeline component for tracking AI agent reasoning, tool calls, API queries, database fetches, and execution states with inspectable parameters and results.\nEasyUI · AI & chat",
+      "title" : "AI Agent Activity (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/ai-agent-activity"
+    },
+    {
+      "aspect" : 1.1092592592592592,
+      "author" : "Noman",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:1pd6afn",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.recent.design/items/1pd6afn/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/1pd6afn/0/1198x1080.mp4",
+        "width" : 1198
+      },
+      "origin" : "https://x.com/Nomandsign/status/2117712985804484770",
+      "publishedAt" : "2026-11-04T17:25:45.306Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Light",
+        "Microinteraction",
+        "Loading Animation",
+        "Minimal",
+        "AI",
+        "Productivity"
+      ],
+      "text" : "An AI prompt card triggers a spreadsheet to populate with deal data, animating through a gradient bloom before rows fill with accounts, amounts, and color-coded stage badges.",
+      "thumb" : "https://cdn.recent.design/items/1pd6afn/0/poster/1200.webp",
+      "title" : "AI Spreadsheet Fill",
+      "url" : "https://recent.design/i/1pd6afn-ai-spreadsheet-fill-interaction"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:5f89fb02-ad5b-4da3-8b95-620418ff4f09",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/5f89fb02-ad5b-4da3-8b95-620418ff4f09/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://www.ascii-magic.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+
+      ],
+      "text" : "Free ASCII art generator and image & video effects studio: ASCII, pixel art, voxel, mosaic, halftone,…",
+      "thumb" : "https://cdn.designeer.xyz/items/5f89fb02-ad5b-4da3-8b95-620418ff4f09/poster/1200.webp",
+      "title" : "ASCII Magic",
+      "url" : "https://designeer.xyz/tools/ascii-magic"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:4f1570d5-5134-41b5-97e8-b45020075bb3",
+      "kind" : "text",
+      "origin" : "https://loadmo.re/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · loadmo.re",
+      "title" : "loadmo.re",
+      "url" : "https://designengineer.tools/#4f1570d5-5134-41b5-97e8-b45020075bb3"
+    },
+    {
+      "aspect" : 0.71044921875,
+      "author" : "Petrenko Pavel",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShyrvkr20gRzQw0LgiTc8g9vR_AZQWd12twNsSIhuEOvLWxq",
+      "kind" : "image",
+      "media" : {
+        "height" : 2048,
+        "src" : "https://i.pinimg.com/736x/85/ba/95/85ba95ea5a25d4ac98617e3fc81196e4.jpg",
+        "width" : 1455
+      },
+      "publishedAt" : "2025-07-18T08:18:13.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/85/ba/95/85ba95ea5a25d4ac98617e3fc81196e4.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShyrvkr20gRzQw0LgiTc8g9vR_AZQWd12twNsSIhuEOvLWxq/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:skeuomorphic-traditional-tear-off-calendar-in-chengyu-calendar",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/chengyu_calendar-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/chengyu_calendar.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Skeuomorphic",
+        "3D",
+        "Mobile",
+        "Transition",
+        "Chengyu Calendar"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/chengyu_calendar-first-frame.jpg",
+      "title" : "Skeuomorphic traditional tear off calendar in Chengyu Calendar",
+      "url" : "https://designspells.com/spells/skeuomorphic-traditional-tear-off-calendar-in-chengyu-calendar"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/ai-response",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/ai-response",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "ai-chat"
+      ],
+      "text" : "A production-ready, accessible AI response component supporting streaming markdown, syntax-styled code blocks, citations, feedback actions, and tool execution status.\nEasyUI · AI & chat",
+      "title" : "AI Response (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/ai-response"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Raphael Salaja",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:nf0rkxb",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/nf0rkxb/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/nf0rkxb/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/raphaelsalaja/status/2118019816233775318",
+      "publishedAt" : "2026-11-04T17:07:20.283Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Light",
+        "Transitions",
+        "Microinteraction",
+        "Minimal"
+      ],
+      "text" : "Web recreation of the macOS Genie minimize effect where a browser window warps and funnels down into a dock target icon with a fluid, curved distortion.",
+      "thumb" : "https://cdn.recent.design/items/nf0rkxb/0/poster/1200.webp",
+      "title" : "Genie Minimize for Web",
+      "url" : "https://recent.design/i/nf0rkxb-genie-minimize-for-web"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:deda20dc-fc6a-4a80-b340-fa740f293cd7",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/deda20dc-fc6a-4a80-b340-fa740f293cd7/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://getnorval.com",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Development"
+      ],
+      "text" : "Website broken, hacked, slow or stuck?",
+      "thumb" : "https://cdn.designeer.xyz/items/deda20dc-fc6a-4a80-b340-fa740f293cd7/poster/1200.webp",
+      "title" : "Norval",
+      "url" : "https://designeer.xyz/tools/norval"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:583d7f22-990f-47a1-8e53-1c059849811a",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://minimal.gallery/",
+      "selected" : true,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · minimal.gallery",
+      "title" : "Minimal Gallery",
+      "url" : "https://designengineer.tools/#583d7f22-990f-47a1-8e53-1c059849811a"
+    },
+    {
+      "aspect" : 0.6891385767790262,
+      "author" : "UI Kits Worth Zooming Into",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShyTaeXi0pbXXcnvAtrFFVign97qxRPxurIIyxA7qU98qY6PwQ",
+      "kind" : "image",
+      "media" : {
+        "height" : 2136,
+        "src" : "https://i.pinimg.com/736x/04/e6/60/04e660a36e2f8b22ee17dd344bc8ce2a.jpg",
+        "width" : 1472
+      },
+      "publishedAt" : "2026-10-23T16:00:20.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Manage your finances like a pro with this sleek Figma dashboard. Track transactions, view analytics, and visualize data effortlessly. Perfect for finance apps. Explore now! 📊 #FinanceDashboard #AnalyticsUI #FigmaTemplate",
+      "thumb" : "https://i.pinimg.com/736x/04/e6/60/04e660a36e2f8b22ee17dd344bc8ce2a.jpg",
+      "title" : "Finance Dashboard UI Kit | Figma Template for Analytics & Admin",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShyTaeXi0pbXXcnvAtrFFVign97qxRPxurIIyxA7qU98qY6PwQ/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:smooth-sheet-transitions-in-sudoku-a-day",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/sudoku_a_day-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/sudoku_a_day-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Sudoku a Day"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/sudoku_a_day-2-first-frame.jpg",
+      "title" : "Smooth sheet transitions in Sudoku a Day",
+      "url" : "https://designspells.com/spells/smooth-sheet-transitions-in-sudoku-a-day"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/airport-matrix-clock",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/airport-matrix-clock",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "clock"
+      ],
+      "text" : "A live world clock that renders local times and city names as crisp dot-matrix characters with restrained, character-level rolling transitions.\nEasyUI · Clocks & countdowns",
+      "title" : "Airport Matrix Clock (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/airport-matrix-clock"
+    },
+    {
+      "aspect" : 1,
+      "author" : "jhey",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:4ldtkhb",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.recent.design/items/4ldtkhb/0/poster/1080.webp",
+        "src" : "https://cdn.recent.design/items/4ldtkhb/0/1080x1080.mp4",
+        "width" : 1080
+      },
+      "origin" : "https://x.com/jh3yy/status/2117769322013814826",
+      "publishedAt" : "2026-11-04T01:44:10.387Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Light",
+        "Microinteraction",
+        "Drag & Drop",
+        "Playful"
+      ],
+      "text" : "A satirical CAPTCHA widget that escalates from a simple checkbox to a draggable, rotatable jigsaw puzzle of a robot disguised as a human, then fails with a verification expired error.",
+      "thumb" : "https://cdn.recent.design/items/4ldtkhb/0/poster/1080.webp",
+      "title" : "dumbCAPTCHA Puzzle",
+      "url" : "https://recent.design/i/4ldtkhb-dumbcaptcha-puzzle-widget"
+    },
+    {
+      "aspect" : 1.6,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:450f4614-0bbd-46ff-b418-72e2067ca95e",
+      "kind" : "image",
+      "media" : {
+        "height" : 750,
+        "src" : "https://cdn.designeer.xyz/items/450f4614-0bbd-46ff-b418-72e2067ca95e/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://woblo.in",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "Copy any website's colors, fonts, icons and CSS in one click.",
+      "thumb" : "https://cdn.designeer.xyz/items/450f4614-0bbd-46ff-b418-72e2067ca95e/poster/1200.webp",
+      "title" : "Woblo",
+      "url" : "https://designeer.xyz/tools/woblo"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:863772b4-0c3a-408e-9375-696e8e5891c4",
+      "kind" : "text",
+      "origin" : "https://mnmm.xyz/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · mnmm.xyz",
+      "title" : "Minimum",
+      "url" : "https://designengineer.tools/#863772b4-0c3a-408e-9375-696e8e5891c4"
+    },
+    {
+      "aspect" : 0.6668724915097253,
+      "author" : "Design Monks | UX/UI Design & Webflow Agency",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShw140o-bx_t3NCMgCVXdAcqKesenz5QVb4unuq0TqCN-UAg",
+      "kind" : "image",
+      "media" : {
+        "height" : 3239,
+        "src" : "https://i.pinimg.com/736x/39/b8/0d/39b80d90c8f7585cce93b1e3ad0defee.jpg",
+        "width" : 2160
+      },
+      "publishedAt" : "2023-08-17T16:28:26.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Explore our meticulously crafted Educational Dashboard design for a holistic learning experience. Monitor your engagement, achievements, statistics, daily schedule, assignments, and more in one intuitive interface. Get in touch with us today to learn more about our UX design services and let's work together to create something amazing 👉Contact: hello@designmonks.co +8801798-155521 #EducationalDashboard #LearningExperience #ProgressTracking #Statistics #DailySchedule #AssignmentsManagement",
+      "thumb" : "https://i.pinimg.com/736x/39/b8/0d/39b80d90c8f7585cce93b1e3ad0defee.jpg",
+      "title" : "Educational Dashboard Design",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShw140o-bx_t3NCMgCVXdAcqKesenz5QVb4unuq0TqCN-UAg/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:pretzel-pong-minigame-in-deel-during-oktoberfest",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/deel-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/deel-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Fun",
+        "Desktop",
+        "Occasion",
+        "Deel",
+        "Design Detail"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/deel-2-first-frame.jpg",
+      "title" : "Pretzel Pong minigame in Deel during Oktoberfest",
+      "url" : "https://designspells.com/spells/pretzel-pong-minigame-in-deel-during-oktoberfest"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/alert",
+      "kind" : "text",
+      "origin" : "https://easyui.site/components/alert",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "toast"
+      ],
+      "text" : "An alert component that collapses smoothly in height and opacity on dismissal, with tone-aware icons, action slot, and accessibility roles.\nEasyUI · Toasts & alerts",
+      "title" : "Alert (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/alert"
+    },
+    {
+      "aspect" : 1,
+      "author" : "jhey",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:lzy2xnr",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.recent.design/items/lzy2xnr/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/lzy2xnr/0/1080x1080.mp4",
+        "width" : 1080
+      },
+      "origin" : "https://x.com/jh3yy/status/2116321049851908266",
+      "publishedAt" : "2026-11-03T20:14:22.155Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Microinteraction",
+        "Scroll Animation",
+        "Experimental",
+        "3D",
+        "Developer"
+      ],
+      "text" : "A CSS scroll-driven emoji picker where all emojis map onto a rotatable 3D sphere, with search filtering and click-to-insert into a message field.",
+      "thumb" : "https://cdn.recent.design/items/lzy2xnr/0/poster/1200.webp",
+      "title" : "Emoji Picker Globe",
+      "url" : "https://recent.design/i/lzy2xnr-emoji-picker-globe"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:7279d896-4622-4c02-8673-398b8cf6e5e8",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/7279d896-4622-4c02-8673-398b8cf6e5e8/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://www.uwarp.design",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop"
+      ],
+      "text" : "Use 500+ free UI design tools and browser utilities—SVG generators, color pickers, image and audio…",
+      "thumb" : "https://cdn.designeer.xyz/items/7279d896-4622-4c02-8673-398b8cf6e5e8/poster/1200.webp",
+      "title" : "Uwarp",
+      "url" : "https://designeer.xyz/tools/uwarp"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:dd516d42-bc16-4b62-a6cb-5f4145d96c9d",
+      "kind" : "text",
+      "origin" : "https://mobbin.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · mobbin.com",
+      "title" : "Mobbin",
+      "url" : "https://designengineer.tools/#dd516d42-bc16-4b62-a6cb-5f4145d96c9d"
+    },
+    {
+      "aspect" : 0.6666666666666666,
+      "author" : "Pocket-Sized UI Kits, Big Ideas",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShzMX-Tuq0FDaFodOKT2dfzc3CeAO2W-AZsgJXFe_lFJJ-fdQA",
+      "kind" : "image",
+      "media" : {
+        "height" : 1536,
+        "src" : "https://i.pinimg.com/736x/2e/40/9e/2e409ea363280e1a56f92eb333d50541.jpg",
+        "width" : 1024
+      },
+      "publishedAt" : "2026-10-05T01:17:11.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Pink neumorphism marketing dashboard UI with soft raised cards, campaign analytics, traffic channels, social reach, audience demographics, funnels, and top campaigns. Save this pastel SaaS interface.",
+      "thumb" : "https://i.pinimg.com/736x/2e/40/9e/2e409ea363280e1a56f92eb333d50541.jpg",
+      "title" : "Pink Neumorphism Marketing Dashboard",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShzMX-Tuq0FDaFodOKT2dfzc3CeAO2W-AZsgJXFe_lFJJ-fdQA/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:interactive-magnifier-in-preview",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/preview-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/preview.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Skeuomorphic",
+        "Mobile",
+        "Easter Egg",
+        "Apple",
+        "Motion",
+        "Preview"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/preview-first-frame.jpg",
+      "title" : "Interactive magnifier in Preview",
+      "url" : "https://designspells.com/spells/interactive-magnifier-in-preview"
+    },
+    {
+      "author" : "shadcn/ui",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:ui-shadcn/alert",
+      "kind" : "text",
+      "origin" : "https://ui.shadcn.com/docs/components/alert",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "toast"
+      ],
+      "text" : "shadcn/ui · Toasts & alerts",
+      "title" : "Alert (shadcn/ui)",
+      "url" : "https://allcomps.vercel.app/c/ui-shadcn/alert"
+    },
+    {
+      "aspect" : 0.6666666666666666,
+      "author" : "DeeKay",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:ypfehbv",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.recent.design/items/ypfehbv/0/poster/800.webp",
+        "src" : "https://cdn.recent.design/items/ypfehbv/0/720x1080.mp4",
+        "width" : 720
+      },
+      "origin" : "https://x.com/deekaymotion/status/2117639673518621055",
+      "publishedAt" : "2026-11-03T16:47:11.346Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Motion",
+        "Muted",
+        "Illustrative",
+        "Textured"
+      ],
+      "text" : "Looping character animation of a slouched figure with a briefcase waiting at a Japanese crosswalk, with an expressive childlike shadow and sweeping rainbow light refractions across tiled walls.",
+      "thumb" : "https://cdn.recent.design/items/ypfehbv/0/poster/800.webp",
+      "title" : "Grew Up Unfortunately",
+      "url" : "https://recent.design/i/ypfehbv-grew-up-unfortunately"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:52708187-1c43-4fc4-90f4-f958255b4c7b",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/52708187-1c43-4fc4-90f4-f958255b4c7b/poster/1200.webp",
+        "width" : 1200
+      },
+      "note" : "余白の取り方",
+      "origin" : "http://becharts.com/",
+      "selected" : true,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop"
+      ],
+      "text" : "Import CSV or Excel, pick from 100+ templates across 20+ chart types, then export a PNG, SVG, or PDF.",
+      "thumb" : "https://cdn.designeer.xyz/items/52708187-1c43-4fc4-90f4-f958255b4c7b/poster/1200.webp",
+      "title" : "Becharts",
+      "url" : "https://designeer.xyz/tools/becharts"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:2abb8a38-4468-4e2d-a028-74fbb65ff8b0",
+      "kind" : "text",
+      "origin" : "https://pinterest.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · pinterest.com",
+      "title" : "Pinterest",
+      "url" : "https://designengineer.tools/#2abb8a38-4468-4e2d-a028-74fbb65ff8b0"
+    },
+    {
+      "aspect" : 1.3331000699790063,
+      "author" : "ADHD Lifestyle Planners",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwS-fUBrybwqQHGmZ2DrJykl9xJhemmmeYm2f_ZPFNJlkER8w",
+      "kind" : "image",
+      "media" : {
+        "height" : 1429,
+        "src" : "https://i.pinimg.com/736x/e1/fb/89/e1fb89ef0f76ccd10989815560324814.jpg",
+        "width" : 1905
+      },
+      "publishedAt" : "2026-05-11T15:12:53.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Intelly — HealthCare App Dashboard by Sigma Software Design on Dribbble",
+      "thumb" : "https://i.pinimg.com/736x/e1/fb/89/e1fb89ef0f76ccd10989815560324814.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwS-fUBrybwqQHGmZ2DrJykl9xJhemmmeYm2f_ZPFNJlkER8w/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:onboarding-gradient-animation-in-horizon",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/horizon-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/horizon.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Beautiful",
+        "Desktop",
+        "Animation",
+        "Horizon"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/horizon-first-frame.jpg",
+      "title" : "Onboarding gradient animation in Horizon",
+      "url" : "https://designspells.com/spells/onboarding-gradient-animation-in-horizon"
+    },
+    {
+      "author" : "shadcn/ui",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:ui-shadcn/alert-dialog",
+      "kind" : "text",
+      "origin" : "https://ui.shadcn.com/docs/components/alert-dialog",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "dialog"
+      ],
+      "text" : "shadcn/ui · Dialogs & modals",
+      "title" : "Alert Dialog (shadcn/ui)",
+      "url" : "https://allcomps.vercel.app/c/ui-shadcn/alert-dialog"
+    },
+    {
+      "aspect" : 0.8,
+      "author" : "Studio Herrstrom",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:xfbfnbj",
+      "kind" : "video",
+      "media" : {
+        "height" : 900,
+        "poster" : "https://cdn.recent.design/items/xfbfnbj/0/poster/960.webp",
+        "src" : "https://cdn.recent.design/items/xfbfnbj/0/720x900.mp4",
+        "width" : 720
+      },
+      "origin" : "https://x.com/dsgnevrywhr/status/2117553118003208339",
+      "publishedAt" : "2026-11-03T16:45:21.287Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Motion",
+        "Black & White",
+        "Transitions",
+        "Typographic"
+      ],
+      "text" : "Kinetic brand identity for Milkshake showing the wordmark, copyright symbols, and label credit text assembling on black in a choreographed animated reveal.",
+      "thumb" : "https://cdn.recent.design/items/xfbfnbj/0/poster/960.webp",
+      "title" : "Milkshake Identity",
+      "url" : "https://recent.design/i/xfbfnbj-milkshake-identity-motion"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:3c266d6d-6d1d-4388-9b9a-2dc69c6fe3e6",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/3c266d6d-6d1d-4388-9b9a-2dc69c6fe3e6/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://pic2svg.com/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "pic2svg converts uploaded JPG and PNG artwork into filled vector paths.",
+      "thumb" : "https://cdn.designeer.xyz/items/3c266d6d-6d1d-4388-9b9a-2dc69c6fe3e6/poster/1200.webp",
+      "title" : "pic2svg",
+      "url" : "https://designeer.xyz/tools/pic2svg"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:93fe1867-c781-40fe-bd94-eafe567b0461",
+      "kind" : "text",
+      "origin" : "https://www.rebrand.gallery/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.rebrand.gallery",
+      "title" : "Rebrand",
+      "url" : "https://designengineer.tools/#93fe1867-c781-40fe-bd94-eafe567b0461"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Chloé",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShxCMcS9RVzh3IoBcXTqfRhPZ9P2FCzKrapr_tg-Id-SyAwt",
+      "kind" : "image",
+      "media" : {
+        "height" : 750,
+        "src" : "https://i.pinimg.com/736x/15/83/d7/1583d71ff0f91419951e452e860acdaa.jpg",
+        "width" : 1000
+      },
+      "publishedAt" : "2021-09-01T14:35:03.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/15/83/d7/1583d71ff0f91419951e452e860acdaa.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShxCMcS9RVzh3IoBcXTqfRhPZ9P2FCzKrapr_tg-Id-SyAwt/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:long-press-menu-in-pinterest",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/pinterest-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/pinterest-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Unique",
+        "Mobile",
+        "Interaction",
+        "Motion",
+        "Pinterest"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/pinterest-2-first-frame.jpg",
+      "title" : "Long-press menu in Pinterest",
+      "url" : "https://designspells.com/spells/long-press-menu-in-pinterest"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/android",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/android",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "mockup"
+      ],
+      "text" : "A mockup of an Android device.\nMagic UI · Device mockups",
+      "title" : "Android (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/android"
+    },
+    {
+      "aspect" : 1.3305555555555555,
+      "author" : "Emile",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:o5w1k5q",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/o5w1k5q/0/poster/958.webp",
+        "src" : "https://cdn.recent.design/items/o5w1k5q/0/958x720.mp4",
+        "width" : 958
+      },
+      "origin" : "https://x.com/eledure/status/2117567527307870649",
+      "publishedAt" : "2026-11-03T16:44:01.533Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Web",
+        "Light",
+        "Cursor Effect",
+        "Typographic",
+        "Experimental",
+        "Textured"
+      ],
+      "text" : "A glass lens travels across multiple website concepts exploring paper, ink, grain and glass textures applied to web typography and layout.",
+      "thumb" : "https://cdn.recent.design/items/o5w1k5q/0/poster/958.webp",
+      "title" : "Physical Texture Web",
+      "url" : "https://recent.design/i/o5w1k5q-physical-texture-web-experiments"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:d55af95d-0eca-429c-9bf8-a8774a8cc28b",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/d55af95d-0eca-429c-9bf8-a8774a8cc28b/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://tactileui.dev",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Design & Canvas"
+      ],
+      "text" : "UI components that work like real hardware: 37 objects, 55 page sections, 190 UI kit parts and 1,100+…",
+      "thumb" : "https://cdn.designeer.xyz/items/d55af95d-0eca-429c-9bf8-a8774a8cc28b/poster/1200.webp",
+      "title" : "Tactile UI",
+      "url" : "https://designeer.xyz/tools/tactile-ui"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:72b28be6-26e6-4171-b0be-c032c69b9cf9",
+      "kind" : "text",
+      "origin" : "https://saaspo.com/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · saaspo.com",
+      "title" : "Saaspo",
+      "url" : "https://designengineer.tools/#72b28be6-26e6-4171-b0be-c032c69b9cf9"
+    },
+    {
+      "aspect" : 1.5,
+      "author" : "Start with a UI Kit",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShzghAEe-oh1U7zR3WLmyWbslTGGwEGAQJt7l2CCKUYQ2m79kw",
+      "kind" : "image",
+      "media" : {
+        "height" : 1024,
+        "src" : "https://i.pinimg.com/736x/9e/d9/e1/9ed9e189452277acdd28f4c211c86734.jpg",
+        "width" : 1536
+      },
+      "publishedAt" : "2026-10-17T17:39:51.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/9e/d9/e1/9ed9e189452277acdd28f4c211c86734.jpg",
+      "title" : "Fintech dashboard with 3D clay UI",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShzghAEe-oh1U7zR3WLmyWbslTGGwEGAQJt7l2CCKUYQ2m79kw/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:effort-selection-animations-in-chatgpt",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/chatgpt-4-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/chatgpt-4.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Desktop",
+        "Animation",
+        "Interaction",
+        "ChatGPT"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/chatgpt-4-first-frame.jpg",
+      "title" : "Effort selection animations in ChatGPT",
+      "url" : "https://designspells.com/spells/effort-selection-animations-in-chatgpt"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/animated-beam",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/animated-beam",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "animation",
+        "background"
+      ],
+      "text" : "An animated beam of light which travels along a path. Useful for showcasing the integration features of a website.\nMagic UI · Motion primitives",
+      "title" : "Animated Beam (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/animated-beam"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Thais Castello Branco",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:kynsyr2",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/kynsyr2/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/kynsyr2/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "note" : "余白の取り方",
+      "origin" : "https://x.com/thaiscbranco_/status/2066912871649574945",
+      "publishedAt" : "2026-11-03T16:40:20.325Z",
+      "selected" : true,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Dark",
+        "Typographic",
+        "Minimal",
+        "AI"
+      ],
+      "text" : "Taste Labs launches out of stealth with $18.5M in seed funding, building data and infrastructure to give AI models measurable taste and judgment starting with design.",
+      "thumb" : "https://cdn.recent.design/items/kynsyr2/0/poster/1200.webp",
+      "title" : "Taste Labs Launch",
+      "url" : "https://recent.design/i/kynsyr2-taste-labs-launch"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:5f7c0cee-4d3d-4a72-aebe-efb0dd9564a1",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/5f7c0cee-4d3d-4a72-aebe-efb0dd9564a1/poster/1200.webp",
+        "width" : 1200
+      },
+      "origin" : "https://cuedesign.space",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "AI & Agents"
+      ],
+      "text" : "Cue is a curated library of 300+ top-notch web components and interactions inspired by the best designs…",
+      "thumb" : "https://cdn.designeer.xyz/items/5f7c0cee-4d3d-4a72-aebe-efb0dd9564a1/poster/1200.webp",
+      "title" : "Cue",
+      "url" : "https://designeer.xyz/tools/cue"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:6c72aad9-89a2-4bbe-a6d7-8de0144674dd",
+      "kind" : "text",
+      "origin" : "https://same.energy/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · same.energy",
+      "title" : "Same Energy",
+      "url" : "https://designengineer.tools/#6c72aad9-89a2-4bbe-a6d7-8de0144674dd"
+    },
+    {
+      "aspect" : 0.6666666666666666,
+      "author" : "UI by Kusuma",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShxIYgV_csM1olYiLHT8sN6FfEWcNOAdBJ-rcNjTq9cmDTVSGQ",
+      "kind" : "image",
+      "media" : {
+        "height" : 1536,
+        "src" : "https://i.pinimg.com/736x/2b/48/d9/2b48d945c3cb392b5b3b425e41c05f1b.jpg",
+        "width" : 1024
+      },
+      "publishedAt" : "2026-05-08T13:57:08.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Clean and modern dashboard UI design inspiration with minimal layouts, analytics visualization and intuitive user experience. Responsive admin dashboard concept focused on usability, data clarity and elegant interface design for UI/UX designers.\n\n\n#DashboardUI #UIUX #UIDesign #DashboardDesign #WebDesign #MinimalUI #UXDesign #AdminPanel #FigmaDesign #DesignInspiration",
+      "thumb" : "https://i.pinimg.com/736x/2b/48/d9/2b48d945c3cb392b5b3b425e41c05f1b.jpg",
+      "title" : "Modern Dashboard UI Inspiration",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShxIYgV_csM1olYiLHT8sN6FfEWcNOAdBJ-rcNjTq9cmDTVSGQ/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:trip-view-in-transit",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/transit-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/transit-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Unique",
+        "Beautiful",
+        "Mobile",
+        "Transit",
+        "Design Detail"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/transit-2-first-frame.jpg",
+      "title" : "Trip view in Transit",
+      "url" : "https://designspells.com/spells/trip-view-in-transit"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/animated-circular-progress-bar",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/animated-circular-progress-bar",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "progress"
+      ],
+      "text" : "Animated Circular Progress Bar is a component that displays a circular gauge with a percentage value.\nMagic UI · Progress & meters",
+      "title" : "Animated Circular Progress Bar (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/animated-circular-progress-bar"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Taste Labs",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:3ap9zr0",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/3ap9zr0/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/3ap9zr0/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.com/officecommun/status/2117633622496727439",
+      "publishedAt" : "2026-11-03T16:36:10.659Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Dark",
+        "Typographic",
+        "Minimal",
+        "AI"
+      ],
+      "text" : "Tastelabs launches the Brand API, a platform letting founders start and run companies autonomously through specialized AI agents coordinating across coding, marketing, sales, finance and research.",
+      "thumb" : "https://cdn.recent.design/items/3ap9zr0/0/poster/1200.webp",
+      "title" : "Tastelabs Brand API Launch",
+      "url" : "https://recent.design/i/3ap9zr0-tastelabs-brand-api-launch"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:c4279ed7-cf80-4756-abf9-679987ecba49",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/c4279ed7-cf80-4756-abf9-679987ecba49/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/c4279ed7-cf80-4756-abf9-679987ecba49/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://www.linkstore.io/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop",
+        "free"
+      ],
+      "text" : "Discover web apps worth opening.",
+      "thumb" : "https://cdn.designeer.xyz/items/c4279ed7-cf80-4756-abf9-679987ecba49/poster/1200.webp",
+      "title" : "Linkstore: The App Store for the web",
+      "url" : "https://designeer.xyz/tools/linkstore-the-app-store-for-the-web"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:535374e1-ab04-43de-a646-c82295bcb797",
+      "kind" : "text",
+      "origin" : "https://searchsystem.co/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · searchsystem.co",
+      "title" : "SearchSystem",
+      "url" : "https://designengineer.tools/#535374e1-ab04-43de-a646-c82295bcb797"
+    },
+    {
+      "aspect" : 0.45368620037807184,
+      "author" : "meng",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShxmWa1B1Aj2FDa_Cy1a5Ah4uYZ6QjUBS-roB0DrftV8xNH1",
+      "kind" : "image",
+      "media" : {
+        "height" : 4232,
+        "src" : "https://i.pinimg.com/736x/cb/2b/aa/cb2baac41dfb11c1714278462e76dd4d.jpg",
+        "width" : 1920
+      },
+      "publishedAt" : "2024-03-29T06:29:28.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Naver 부동산 Dashboard :: Behance",
+      "thumb" : "https://i.pinimg.com/736x/cb/2b/aa/cb2baac41dfb11c1714278462e76dd4d.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShxmWa1B1Aj2FDa_Cy1a5Ah4uYZ6QjUBS-roB0DrftV8xNH1/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:timer-animation-when-on-ios-standby-mode",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/ios-16-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/ios-16.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Beautiful",
+        "Mobile",
+        "Apple",
+        "iOS",
+        "Design Detail"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/ios-16-first-frame.jpg",
+      "title" : "Timer animation when on iOS' StandBy mode",
+      "url" : "https://designspells.com/spells/timer-animation-when-on-ios-standby-mode"
+    },
+    {
+      "author" : "Rare UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:rare-ui/animated-counter",
+      "kind" : "text",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "number"
+      ],
+      "text" : "A number that counts to its new value on a wheel of digits, like an odometer.\nRare UI · Number & counters",
+      "title" : "Animated Counter (Rare UI)",
+      "url" : "https://allcomps.vercel.app/c/rare-ui/animated-counter"
+    },
+    {
+      "aspect" : 1,
+      "author" : "keshav",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:jc9jje6",
+      "kind" : "video",
+      "media" : {
+        "height" : 1198,
+        "poster" : "https://cdn.recent.design/items/jc9jje6/0/poster/1198.webp",
+        "src" : "https://cdn.recent.design/items/jc9jje6/0/1198x1198.mp4",
+        "width" : 1198
+      },
+      "origin" : "https://x.com/kshvbgde/status/2117502283894362219",
+      "publishedAt" : "2026-11-03T14:15:25.950Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Transitions",
+        "Microinteraction",
+        "Experimental"
+      ],
+      "text" : "Hold-to-delete button ignites with fire and burns the UI away to ash, transitioning the screen to a dark signed-out state with ember particles.",
+      "thumb" : "https://cdn.recent.design/items/jc9jje6/0/poster/1198.webp",
+      "title" : "Account Deletion Burn",
+      "url" : "https://recent.design/i/jc9jje6-account-deletion-fire-effect"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:0109a2a9-86d2-4e13-a4c6-f6158af4295d",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/0109a2a9-86d2-4e13-a4c6-f6158af4295d/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/0109a2a9-86d2-4e13-a4c6-f6158af4295d/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://skillbundle.dev/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Development"
+      ],
+      "text" : "Search, filter, and compare agent skills for Claude Code, Cursor, and Codex.",
+      "thumb" : "https://cdn.designeer.xyz/items/0109a2a9-86d2-4e13-a4c6-f6158af4295d/poster/1200.webp",
+      "title" : "Agent Skills Directory for Claude Code, Cursor and Codex",
+      "url" : "https://designeer.xyz/tools/agent-skills-directory-for-claude-code-cursor-an"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:8eca7711-8fda-4270-bfec-a817c3dce95a",
+      "kind" : "text",
+      "origin" : "https://www.seesaw.website/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.seesaw.website",
+      "title" : "SEESAW",
+      "url" : "https://designengineer.tools/#8eca7711-8fda-4270-bfec-a817c3dce95a"
+    },
+    {
+      "aspect" : 1.3763888888888889,
+      "author" : "전 근호",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShxAX9IYHT3cS6D2gAX7AFaHSmEprsQylLUMcWzDIQFCm3Nw",
+      "kind" : "image",
+      "media" : {
+        "height" : 1440,
+        "src" : "https://i.pinimg.com/736x/35/86/9f/35869fd0533e48a023bcb47a8321d114.jpg",
+        "width" : 1982
+      },
+      "publishedAt" : "2024-11-04T04:31:14.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Welcome to FASSTO",
+      "thumb" : "https://i.pinimg.com/736x/35/86/9f/35869fd0533e48a023bcb47a8321d114.jpg",
+      "title" : "네이버 공식 풀필먼트 | 파스토 FASSTO",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShxAX9IYHT3cS6D2gAX7AFaHSmEprsQylLUMcWzDIQFCm3Nw/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:voice-orb-animations-in-chatgpt",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/chatgpt-3-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/chatgpt-3.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Beautiful",
+        "Mobile",
+        "Animation",
+        "Interaction",
+        "ChatGPT"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/chatgpt-3-first-frame.jpg",
+      "title" : "Voice orb animations in ChatGPT",
+      "url" : "https://designspells.com/spells/voice-orb-animations-in-chatgpt"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/animated-file-upload",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://easyui.site/components/animated-file-upload",
+      "selected" : true,
+      "source" : "allcomps",
+      "tags" : [
+        "file-upload"
+      ],
+      "text" : "A minimal, physical drag-and-drop file uploader with smooth drop reaction, independent file upload tracking, progressive state morphing, and accessible retry flows.\nEasyUI · File upload",
+      "title" : "Animated File Upload (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/animated-file-upload"
+    },
+    {
+      "aspect" : 1.3222222222222222,
+      "author" : "Cristian Javier",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:tzsn9ci",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/tzsn9ci/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/tzsn9ci/0/952x720.mp4",
+        "width" : 952
+      },
+      "origin" : "https://x.com/_crisjav/status/2117479742719017227",
+      "publishedAt" : "2026-11-03T13:45:44.767Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Light",
+        "Microinteraction",
+        "Hover Effect",
+        "Soft UI",
+        "Organic"
+      ],
+      "text" : "Two iOS-style bubble buttons merge with a liquid goo metaball effect on hover, stretching and snapping between a translucent camera orb and a glossy green plus orb.",
+      "thumb" : "https://cdn.recent.design/items/tzsn9ci/0/poster/1200.webp",
+      "title" : "Liquid Bubble Buttons",
+      "url" : "https://recent.design/i/tzsn9ci-liquid-bubble-buttons"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:caf74671-923c-4ccb-ae48-4eaafb692a80",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/caf74671-923c-4ccb-ae48-4eaafb692a80/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/caf74671-923c-4ccb-ae48-4eaafb692a80/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://recast.li/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop",
+        "freemium"
+      ],
+      "text" : "Recast turns a raw screen capture into a polished, shareable demo.",
+      "thumb" : "https://cdn.designeer.xyz/items/caf74671-923c-4ccb-ae48-4eaafb692a80/poster/1200.webp",
+      "title" : "Record. Polish. Share.",
+      "url" : "https://designeer.xyz/tools/record-polish-share"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:6a37362e-b9e8-4be7-8aea-f0aaef8b7cb7",
+      "kind" : "text",
+      "origin" : "https://spiral.soot.com/spiral",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · spiral.soot.com",
+      "title" : "SOOT SPIRAL",
+      "url" : "https://designengineer.tools/#6a37362e-b9e8-4be7-8aea-f0aaef8b7cb7"
+    },
+    {
+      "aspect" : 0.8,
+      "author" : "Igor",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwtL9A93RHE5xgy2VencI7VWSRl84lbqe_H66ewt3gsZv0M",
+      "kind" : "image",
+      "media" : {
+        "height" : 1800,
+        "src" : "https://i.pinimg.com/736x/d6/fe/58/d6fe58460ee240f40d5843cf7be2c5bd.jpg",
+        "width" : 1440
+      },
+      "publishedAt" : "2025-10-13T16:56:33.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Instagram",
+      "thumb" : "https://i.pinimg.com/736x/d6/fe/58/d6fe58460ee240f40d5843cf7be2c5bd.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwtL9A93RHE5xgy2VencI7VWSRl84lbqe_H66ewt3gsZv0M/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:delete-confirmation-animation-in-things-take-time",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/things_take_time-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/things_take_time.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Button",
+        "Mobile",
+        "Interaction",
+        "Things take time"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/things_take_time-first-frame.jpg",
+      "title" : "Delete confirmation animation in Things take time",
+      "url" : "https://designspells.com/spells/delete-confirmation-animation-in-things-take-time"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/animated-gradient-text",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/animated-gradient-text",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "text-effect",
+        "background"
+      ],
+      "text" : "An animated gradient background which transitions between colors for text.\nMagic UI · Text animations",
+      "title" : "Animated Gradient Text (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/animated-gradient-text"
+    },
+    {
+      "aspect" : 0.7515657620041754,
+      "author" : "A. L. Crego",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:tquycvu",
+      "kind" : "video",
+      "media" : {
+        "height" : 958,
+        "poster" : "https://cdn.recent.design/items/tquycvu/0/poster/900.webp",
+        "src" : "https://cdn.recent.design/items/tquycvu/0/720x958.mp4",
+        "width" : 720
+      },
+      "origin" : "https://x.com/ALCrego_/status/2116980955525022151",
+      "publishedAt" : "2026-11-03T05:32:06.396Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Motion",
+        "Black & White",
+        "Experimental",
+        "High Contrast",
+        "Textured"
+      ],
+      "text" : "A looping motion piece depicting surging crowds of figures and reaching hands rendered in halftone black and white, with shifting burst-light sources driving the camera through the mass.",
+      "thumb" : "https://cdn.recent.design/items/tquycvu/0/poster/900.webp",
+      "title" : "Light Motion Study",
+      "url" : "https://recent.design/i/tquycvu-light-motion-study"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:033b0ec2-1004-46bd-8739-2b8d8aef2b08",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/033b0ec2-1004-46bd-8739-2b8d8aef2b08/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/033b0ec2-1004-46bd-8739-2b8d8aef2b08/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://www.remocn.dev/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Capture & Media",
+        "paid"
+      ],
+      "text" : "Remotion animation components for video production.",
+      "thumb" : "https://cdn.designeer.xyz/items/033b0ec2-1004-46bd-8739-2b8d8aef2b08/poster/1200.webp",
+      "title" : "Remocn",
+      "url" : "https://designeer.xyz/tools/remocn"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:14cc5649-e749-4634-a97e-15f93a62f590",
+      "kind" : "text",
+      "origin" : "https://www.supahero.io/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · www.supahero.io",
+      "title" : "Supahero",
+      "url" : "https://designengineer.tools/#14cc5649-e749-4634-a97e-15f93a62f590"
+    },
+    {
+      "aspect" : 0.8,
+      "author" : "Diaz Mark",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShwu_7c7p-BSd7ZRBA6dsxhRY2eduzw1bURDOHuE8U--WzYG",
+      "kind" : "image",
+      "media" : {
+        "height" : 1500,
+        "src" : "https://i.pinimg.com/736x/71/f5/3c/71f53c18323e8a530f5eace8db4ddcef.jpg",
+        "width" : 1200
+      },
+      "publishedAt" : "2024-03-29T05:35:25.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "text" : "Personal Dashboard designed by quan ❖ for Kulak. Connect with them on Dribbble; the global community for designers and creative professionals.",
+      "thumb" : "https://i.pinimg.com/736x/71/f5/3c/71f53c18323e8a530f5eace8db4ddcef.jpg",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShwu_7c7p-BSd7ZRBA6dsxhRY2eduzw1bURDOHuE8U--WzYG/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:sidebar-icon-animation-in-granola",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/granola-2-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/granola-2.mp4",
+        "width" : 1920
+      },
+      "selected" : false,
+      "source" : "designspells",
+      "tags" : [
+        "Button",
+        "Desktop",
+        "Animation",
+        "Granola"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/granola-2-first-frame.jpg",
+      "title" : "Sidebar icon animation in Granola",
+      "url" : "https://designspells.com/spells/sidebar-icon-animation-in-granola"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/animated-grid-pattern",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/animated-grid-pattern",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "background"
+      ],
+      "text" : "A animated background grid pattern made with SVGs, fully customizable using Tailwind CSS.\nMagic UI · Backgrounds",
+      "title" : "Animated Grid Pattern (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/animated-grid-pattern"
+    },
+    {
+      "aspect" : 1,
+      "author" : "alex",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:1sr9bt9",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.recent.design/items/1sr9bt9/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/1sr9bt9/0/1080x1080.mp4",
+        "width" : 1080
+      },
+      "origin" : "https://x.com/alexabraham/status/2117327926580625417",
+      "publishedAt" : "2026-11-03T05:29:29.995Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Transitions",
+        "Microinteraction",
+        "Consumer"
+      ],
+      "text" : "A compact stock ticker pill expands into a full detail card that scrubs through TSLA's trading day, updating price and gain indicators in real time before collapsing back.",
+      "thumb" : "https://cdn.recent.design/items/1sr9bt9/0/poster/1200.webp",
+      "title" : "Stock Ticker Card Interaction",
+      "url" : "https://recent.design/i/1sr9bt9-stock-ticker-card-interaction"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:036fc3af-601e-4303-8c3d-a30b326d6d6e",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/036fc3af-601e-4303-8c3d-a30b326d6d6e/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/036fc3af-601e-4303-8c3d-a30b326d6d6e/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://dotforge.vercel.app/",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Capture & Media"
+      ],
+      "text" : "Real-time dither effect generator for web.",
+      "thumb" : "https://cdn.designeer.xyz/items/036fc3af-601e-4303-8c3d-a30b326d6d6e/poster/1200.webp",
+      "title" : "DotForge",
+      "url" : "https://designeer.xyz/tools/dotforge"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:0b094a65-a2ff-4d98-89ec-717824c18411",
+      "kind" : "text",
+      "origin" : "https://bolt.new/",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "AI Code"
+      ],
+      "text" : "AI Code · bolt.new",
+      "title" : "Bolt.new",
+      "url" : "https://designengineer.tools/#0b094a65-a2ff-4d98-89ec-717824c18411"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Bilyk Greg",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShz8eGQIqZyNmIe_WgcnQpzoGA_c-w5jQSv90wg05hOGoAk8",
+      "kind" : "image",
+      "media" : {
+        "height" : 1128,
+        "src" : "https://i.pinimg.com/736x/12/07/c0/1207c0d14f7c09e6feb69294c9584ee8.jpg",
+        "width" : 1504
+      },
+      "publishedAt" : "2023-09-27T15:22:08.000Z",
+      "selected" : false,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/12/07/c0/1207c0d14f7c09e6feb69294c9584ee8.jpg",
+      "title" : "Best Website Dashboard UI Examples for Design Inspiration — #220",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShz8eGQIqZyNmIe_WgcnQpzoGA_c-w5jQSv90wg05hOGoAk8/"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:animated-transitions-in-find-my",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/find_my-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/find_my.mp4",
+        "width" : 1920
+      },
+      "note" : "余白の取り方",
+      "selected" : true,
+      "source" : "designspells",
+      "tags" : [
+        "3D",
+        "Mobile",
+        "Transition",
+        "Apple",
+        "Motion",
+        "Find My"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/find_my-first-frame.jpg",
+      "title" : "Animated transitions in Find My",
+      "url" : "https://designspells.com/spells/animated-transitions-in-find-my"
+    },
+    {
+      "author" : "Magic UI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:magicui/animated-list",
+      "kind" : "text",
+      "origin" : "https://magicui.design/docs/components/animated-list",
+      "selected" : false,
+      "source" : "allcomps",
+      "tags" : [
+        "list"
+      ],
+      "text" : "A list that animates each item in sequence with a delay. Used to showcase notifications or events on your landing page.\nMagic UI · Lists & feeds",
+      "title" : "Animated List (Magic UI)",
+      "url" : "https://allcomps.vercel.app/c/magicui/animated-list"
+    },
+    {
+      "aspect" : 0.75,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:7blmeso",
+      "kind" : "video",
+      "media" : {
+        "height" : 960,
+        "poster" : "https://cdn.recent.design/items/7blmeso/0/poster/720.webp",
+        "src" : "https://cdn.recent.design/items/7blmeso/0/720x960.mp4",
+        "width" : 720
+      },
+      "origin" : "https://x.com/mamunrabbe/status/2117240549203935461",
+      "publishedAt" : "2026-11-03T05:29:05.952Z",
+      "selected" : false,
+      "source" : "recent",
+      "tags" : [
+        "Motion",
+        "Dark",
+        "Vibrant",
+        "Kinetic Type",
+        "Abstract",
+        "Experimental"
+      ],
+      "text" : "A curated motion reel featuring four distinct animation experiments: a morphing glowing butterfly, kinetic city-name type, a rotating thermal specimen ring, and animated editorial poster cards.",
+      "thumb" : "https://cdn.recent.design/items/7blmeso/0/poster/720.webp",
+      "title" : "Motion Inspo 008",
+      "url" : "https://recent.design/i/7blmeso-motion-inspo-008"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:0501357d-103b-45e2-8a7e-2adc883ba345",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.designeer.xyz/items/0501357d-103b-45e2-8a7e-2adc883ba345/poster/1200.webp",
+        "src" : "https://cdn.designeer.xyz/items/0501357d-103b-45e2-8a7e-2adc883ba345/video/1280x720.mp4",
+        "width" : 1280
+      },
+      "origin" : "https://x.ai/bot",
+      "selected" : false,
+      "source" : "designeer",
+      "tags" : [
+        "Development",
+        "paid"
+      ],
+      "text" : "Documentation detailing xAI web crawler specifications.",
+      "thumb" : "https://cdn.designeer.xyz/items/0501357d-103b-45e2-8a7e-2adc883ba345/poster/1200.webp",
+      "title" : "x.ai/bot",
+      "url" : "https://designeer.xyz/tools/x-ai-bot"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:c762313c-941e-4038-917f-5780fc1cf079",
+      "kind" : "text",
+      "origin" : "https://claude.com/product/claude-code",
+      "selected" : false,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "AI Code"
+      ],
+      "text" : "AI Code · claude.com",
+      "title" : "Claude Code",
+      "url" : "https://designengineer.tools/#c762313c-941e-4038-917f-5780fc1cf079"
+    }
+  ]
+}

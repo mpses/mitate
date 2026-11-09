@@ -1,0 +1,83 @@
+{
+  "sources" : [
+    {
+      "canList" : true,
+      "canSearch" : true,
+      "count" : 50,
+      "home" : "https://www.pinterest.com/",
+      "id" : "pinterest",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "signedIn",
+      "name" : "pinterest",
+      "sync" : {
+        "state" : "idle"
+      }
+    },
+    {
+      "canList" : true,
+      "canSearch" : false,
+      "count" : 350,
+      "home" : "https://designspells.com/",
+      "id" : "designspells",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "none",
+      "name" : "designspells",
+      "sync" : {
+        "done" : 40,
+        "state" : "syncing"
+      }
+    },
+    {
+      "canList" : true,
+      "canSearch" : false,
+      "count" : 496,
+      "home" : "https://allcomps.vercel.app/",
+      "id" : "allcomps",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "none",
+      "name" : "allcomps",
+      "sync" : {
+        "state" : "idle"
+      }
+    },
+    {
+      "canList" : true,
+      "canSearch" : false,
+      "count" : 1461,
+      "home" : "https://recent.design/",
+      "id" : "recent",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "none",
+      "name" : "recent",
+      "sync" : {
+        "state" : "idle"
+      }
+    },
+    {
+      "canList" : true,
+      "canSearch" : false,
+      "count" : 161,
+      "home" : "https://designeer.xyz/",
+      "id" : "designeer",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "none",
+      "name" : "designeer",
+      "sync" : {
+        "state" : "idle"
+      }
+    },
+    {
+      "canList" : true,
+      "canSearch" : false,
+      "count" : 127,
+      "home" : "https://designengineer.tools/",
+      "id" : "designengineer-tools",
+      "lastSyncedAt" : "2026-11-08T06:00:00.000Z",
+      "login" : "none",
+      "name" : "designengineer-tools",
+      "sync" : {
+        "state" : "idle"
+      }
+    }
+  ]
+}

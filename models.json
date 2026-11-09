@@ -1,0 +1,51 @@
+{
+  "source": "https://huggingface.co/onnx-community/siglip2-base-patch16-256-ONNX/resolve/d1114256522a37ffa257a0a58017348ab0058db2",
+  "dir": "siglip2-base-patch16-256-fp16",
+  "files": [
+    {
+      "path": "config.json",
+      "bytes": 458,
+      "sha256": "795a8e216ebb51ad5043e128e557c45279b686bd672221fbe01279a7b8cb79c9"
+    },
+    {
+      "path": "preprocessor_config.json",
+      "bytes": 394,
+      "sha256": "d14ba2ee3fd816f3de8abaddc31953565128eaf37c73ad4bed32101a98465aff"
+    },
+    {
+      "path": "tokenizer.json",
+      "bytes": 34363039,
+      "sha256": "cb9140fae3ac5122c972d37adf83e1248471a38147ad76f8215c8872c6fd8322"
+    },
+    {
+      "path": "onnx/vision_model_fp16.onnx",
+      "bytes": 186131676,
+      "sha256": "fe9ad8020a6d3d98d394c9be8f07064066135fc2f87ec11692de0b677c0ac4db",
+      "externalData": {
+        "graph": {
+          "bytes": 287044,
+          "sha256": "3ea9e0bb125394f9c152d42b0af35d15770e6c4b6f2b3131e0e361aba43b4e6f"
+        },
+        "data": {
+          "bytes": 187729408,
+          "sha256": "da0b745745fa9b1e9a4f2e51f50b6664bce44dc398d6a05f1cb2eb42de95089e"
+        }
+      }
+    },
+    {
+      "path": "onnx/text_model_fp16.onnx",
+      "bytes": 564862230,
+      "sha256": "80954edffdc689599e5d5bc6a1738380bc9e8139a18e5c8892485f248b6b4890",
+      "externalData": {
+        "graph": {
+          "bytes": 269505,
+          "sha256": "d0b8e4c5346b94e0d8f274f8a86e50c38f0e85f8ad0d7811521b5557caf8f451"
+        },
+        "data": {
+          "bytes": 566363648,
+          "sha256": "b477cbeb7a43eb3fac15827e10734351dbe93ca91a3cf2377850e12304ecc28a"
+        }
+      }
+    }
+  ]
+}

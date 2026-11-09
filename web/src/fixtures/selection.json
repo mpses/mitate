@@ -1,0 +1,231 @@
+{
+  "shots" : [
+    {
+      "aspect" : 0.8,
+      "author" : "Ritu",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:vwi94zh",
+      "kind" : "video",
+      "media" : {
+        "height" : 900,
+        "poster" : "https://cdn.recent.design/items/vwi94zh/0/poster/960.webp",
+        "src" : "https://cdn.recent.design/items/vwi94zh/0/720x900.mp4",
+        "width" : 720
+      },
+      "note" : "余白の取り方",
+      "origin" : "https://x.com/BThreeAgency/status/2118686469267341525",
+      "publishedAt" : "2026-11-07T14:26:17.472Z",
+      "selected" : true,
+      "source" : "recent",
+      "tags" : [
+        "Interface",
+        "Dark",
+        "Transitions",
+        "Microinteraction",
+        "Loading Animation",
+        "Minimal",
+        "Consumer"
+      ],
+      "text" : "Dark fintech mobile app flow for Vael showing amount entry via numpad, account selection, swipe-to-confirm gesture, and a deposit confirmation screen with an Onyx card reveal.",
+      "thumb" : "https://cdn.recent.design/items/vwi94zh/0/poster/960.webp",
+      "title" : "Vael Fintech App",
+      "url" : "https://recent.design/i/vwi94zh-vael-fintech-app"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/activity-heatmap",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://easyui.site/components/activity-heatmap",
+      "selected" : true,
+      "source" : "allcomps",
+      "tags" : [
+        "chart"
+      ],
+      "text" : "A GitHub-style contribution calendar and weekday-by-hour activity grid with automatic column fitting, quarterly color levels, hover tooltips, and keyboard navigation.\nEasyUI · Charts",
+      "title" : "Activity Heatmap (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/activity-heatmap"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:bookmark-sheet-transitions-in-x",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/twitter-7-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/twitter-7.mp4",
+        "width" : 1920
+      },
+      "note" : "余白の取り方",
+      "selected" : true,
+      "source" : "designspells",
+      "tags" : [
+        "Mobile",
+        "Transition",
+        "Twitter"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/twitter-7-first-frame.jpg",
+      "title" : "Bookmark sheet transitions in X",
+      "url" : "https://designspells.com/spells/bookmark-sheet-transitions-in-x"
+    },
+    {
+      "aspect" : 1.3333333333333333,
+      "author" : "Tigris",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "pinterest:e1_AfqPShyk2Ux17v3KL60Au9uHZe-C3KQb73PFjKTP1JgJeZVITi6J",
+      "kind" : "image",
+      "media" : {
+        "height" : 1200,
+        "src" : "https://i.pinimg.com/736x/3b/a3/d9/3ba3d9b6a8a69374764225e5e9134306.jpg",
+        "width" : 1600
+      },
+      "note" : "余白の取り方",
+      "publishedAt" : "2025-01-19T18:07:00.000Z",
+      "selected" : true,
+      "source" : "pinterest",
+      "tags" : [
+
+      ],
+      "thumb" : "https://i.pinimg.com/736x/3b/a3/d9/3ba3d9b6a8a69374764225e5e9134306.jpg",
+      "title" : "Management Dashboard Ui",
+      "url" : "https://www.pinterest.com/pin/e1_AfqPShyk2Ux17v3KL60Au9uHZe-C3KQb73PFjKTP1JgJeZVITi6J/"
+    },
+    {
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designengineer-tools:583d7f22-990f-47a1-8e53-1c059849811a",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://minimal.gallery/",
+      "selected" : true,
+      "source" : "designengineer-tools",
+      "tags" : [
+        "Inspiration"
+      ],
+      "text" : "Inspiration · minimal.gallery",
+      "title" : "Minimal Gallery",
+      "url" : "https://designengineer.tools/#583d7f22-990f-47a1-8e53-1c059849811a"
+    },
+    {
+      "aspect" : 1.9047619047619047,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designeer:52708187-1c43-4fc4-90f4-f958255b4c7b",
+      "kind" : "image",
+      "media" : {
+        "height" : 630,
+        "src" : "https://cdn.designeer.xyz/items/52708187-1c43-4fc4-90f4-f958255b4c7b/poster/1200.webp",
+        "width" : 1200
+      },
+      "note" : "余白の取り方",
+      "origin" : "http://becharts.com/",
+      "selected" : true,
+      "source" : "designeer",
+      "tags" : [
+        "Productivity & Desktop"
+      ],
+      "text" : "Import CSV or Excel, pick from 100+ templates across 20+ chart types, then export a PNG, SVG, or PDF.",
+      "thumb" : "https://cdn.designeer.xyz/items/52708187-1c43-4fc4-90f4-f958255b4c7b/poster/1200.webp",
+      "title" : "Becharts",
+      "url" : "https://designeer.xyz/tools/becharts"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "author" : "Thais Castello Branco",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "recent:kynsyr2",
+      "kind" : "video",
+      "media" : {
+        "height" : 720,
+        "poster" : "https://cdn.recent.design/items/kynsyr2/0/poster/1200.webp",
+        "src" : "https://cdn.recent.design/items/kynsyr2/0/1280x720.mp4",
+        "width" : 1280
+      },
+      "note" : "余白の取り方",
+      "origin" : "https://x.com/thaiscbranco_/status/2066912871649574945",
+      "publishedAt" : "2026-11-03T16:40:20.325Z",
+      "selected" : true,
+      "source" : "recent",
+      "tags" : [
+        "Launch Videos",
+        "Dark",
+        "Typographic",
+        "Minimal",
+        "AI"
+      ],
+      "text" : "Taste Labs launches out of stealth with $18.5M in seed funding, building data and infrastructure to give AI models measurable taste and judgment starting with design.",
+      "thumb" : "https://cdn.recent.design/items/kynsyr2/0/poster/1200.webp",
+      "title" : "Taste Labs Launch",
+      "url" : "https://recent.design/i/kynsyr2-taste-labs-launch"
+    },
+    {
+      "author" : "EasyUI",
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "allcomps:easyui/animated-file-upload",
+      "kind" : "text",
+      "note" : "余白の取り方",
+      "origin" : "https://easyui.site/components/animated-file-upload",
+      "selected" : true,
+      "source" : "allcomps",
+      "tags" : [
+        "file-upload"
+      ],
+      "text" : "A minimal, physical drag-and-drop file uploader with smooth drop reaction, independent file upload tracking, progressive state morphing, and accessible retry flows.\nEasyUI · File upload",
+      "title" : "Animated File Upload (EasyUI)",
+      "url" : "https://allcomps.vercel.app/c/easyui/animated-file-upload"
+    },
+    {
+      "aspect" : 1.7777777777777777,
+      "colors" : [
+
+      ],
+      "duplicates" : 1,
+      "id" : "designspells:animated-transitions-in-find-my",
+      "kind" : "video",
+      "media" : {
+        "height" : 1080,
+        "poster" : "https://cdn.designspells.com/first-frames/find_my-first-frame.jpg",
+        "src" : "https://cdn.designspells.com/videos/find_my.mp4",
+        "width" : 1920
+      },
+      "note" : "余白の取り方",
+      "selected" : true,
+      "source" : "designspells",
+      "tags" : [
+        "3D",
+        "Mobile",
+        "Transition",
+        "Apple",
+        "Motion",
+        "Find My"
+      ],
+      "thumb" : "https://cdn.designspells.com/first-frames/find_my-first-frame.jpg",
+      "title" : "Animated transitions in Find My",
+      "url" : "https://designspells.com/spells/animated-transitions-in-find-my"
+    }
+  ]
+}
