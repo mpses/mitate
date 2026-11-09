@@ -15,6 +15,7 @@ final class AppController: NSObject, NSApplicationDelegate {
   private var logins: [String: LoginWindow] = [:]
   private var signals: [DispatchSourceSignal] = []
   private var activity: NSObjectProtocol?
+  private let watchdog = WebProcessWatchdog()
 
   func applicationDidFinishLaunching(_ notification: Notification) {
     NSApp.mainMenu = Self.mainMenu(reload: #selector(reloadViewer(_:)), target: self)
@@ -64,6 +65,7 @@ final class AppController: NSObject, NSApplicationDelegate {
     self.viewer = viewer
     viewer.show()
     NSApp.activate()
+    watchdog.start()
 
     // 登録の途中で失敗しても、入れたイベントハンドラーが指す先を残しておく。
     let hotKey = HotKey { [weak self] in self?.summon() }

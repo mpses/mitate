@@ -298,6 +298,12 @@ public final class SourceRunner: NSObject, WKNavigationDelegate {
     settle(webView, error: error)
   }
 
+  /// WebContent が落ちた（WebProcessWatchdog が止めたときを含む）。待っている読み込みと JS を失敗で返してタブを閉じ、次の呼び出しは新しいタブで開く
+  public func webViewWebContentProcessDidTerminate(_ webView: WKWebView) {
+    guard let id = tabs.first(where: { $0.value.web === webView })?.key else { return }
+    Task { await self.discard(id, reason: "WebContent のプロセスが落ちた") }
+  }
+
   // MARK: - JS
 
   private struct RawPage: Decodable {
